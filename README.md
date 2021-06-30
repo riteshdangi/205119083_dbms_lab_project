@@ -1,1 +1,1 @@
-# 205119083_dbms_lab_project
+BOOK BANK SYSTEM USING Python(tkinter) AND MySQL
